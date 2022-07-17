@@ -4,4 +4,4 @@ Harun Tucaković - [@tucah1](https://github.com/tucah1)\
 Muhammed Mušanović - [@mm105](https://github.com/mm105)\
 Fejsal Perva - [@FejsalP](https://github.com/FejsalP)
 
-The project is published at: https://ieeexplore.ieee.org/document/9811108
+The project is published as conference paper at: https://ieeexplore.ieee.org/document/9811108
