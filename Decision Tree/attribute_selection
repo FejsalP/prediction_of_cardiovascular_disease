@@ -1,0 +1,42 @@
+=== Run information ===
+
+Evaluator:    weka.attributeSelection.InfoGainAttributeEval 
+Search:       weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Relation:     cardio_categorical
+Instances:    65303
+Attributes:   10
+              age
+              gender
+              cholesterol
+              gluc
+              smoke
+              alco
+              active
+              BMI
+              blood_pressure
+              cardio
+Evaluation mode:    evaluate on all training data
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+
+Attribute Evaluator (supervised, Class (nominal): 10 cardio):
+	Information Gain Ranking Filter
+
+Ranked attributes:
+ 0.1150637   9 blood_pressure
+ 0.0360198   3 cholesterol
+ 0.0355198   1 age
+ 0.0226616   8 BMI
+ 0.0057492   4 gluc
+ 0.0010073   7 active
+ 0.000212    5 smoke
+ 0.0000511   6 alco
+ 0           2 gender
+
+Selected attributes: 9,3,1,8,4,7,5,6,2 : 9
+
